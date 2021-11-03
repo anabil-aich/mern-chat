@@ -18,7 +18,7 @@
     "jwt-then": "^1.0.1",
     "mongoose": "^5.9.25",
     "socket.io": "^2.3.0",
-    "validator": "^13.1.1"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
